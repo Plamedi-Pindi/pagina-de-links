@@ -1,5 +1,7 @@
 # Lista de Links
 
+[Visualizar o Resultado do trabalho](https://plamedi-pindi.github.io/pagina-de-links/)
+
 Crie uma página semelhante ao [Linktree](https://linktr.ee/), onde usuários possam exibir uma lista de seus links pessoais. Esta aplicação irá extrair informações de um arquivo JSON presente no repositório, proporcionando uma interface personalizada que imita uma mini página de perfil.
 
 ## 🔨 Requisitos
